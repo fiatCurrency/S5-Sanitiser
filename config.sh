@@ -24,8 +24,8 @@
 # Most mods would like it to be enabled
 AUTOMOUNT=true
 
-# Set to true if you need to load system.prop
-PROPFILE=false
+# Set to false if you don't need to load system.prop
+PROPFILE=true
 
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
