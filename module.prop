@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=s5_sanitiser
+name=Samsung Galaxy S5 Sanitiser
+version=v0.1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=fiatCurrency
+description=S5 Customisations
 minMagisk=17000
