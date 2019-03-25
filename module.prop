@@ -1,7 +1,7 @@
 id=s5_sanitiser
 name=Samsung Galaxy S5 Sanitiser
-version=v0.1
-versionCode=1
+version=v0.3
+versionCode=3
 author=fiatCurrency
 description=S5 Customisations
 minMagisk=17000
