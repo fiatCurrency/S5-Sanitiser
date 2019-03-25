@@ -30,8 +30,8 @@ PROPFILE=true
 # Set to true if you need post-fs-data script
 POSTFSDATA=false
 
-# Set to true if you need late_start service script
-LATESTARTSERVICE=false
+# Set to false if you don't need late_start service script
+LATESTARTSERVICE=true
 
 ##########################################################################################
 # Installation Message
