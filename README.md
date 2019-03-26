@@ -1,4 +1,4 @@
-# Magisk Module Template
+# S5-Sanitiser
 
 I prefer to keep all my device-specific customisations in one Magisk module, if at all practical. 
 This is mine for my old Samsung S5+
